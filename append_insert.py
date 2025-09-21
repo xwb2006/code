@@ -1,7 +1,7 @@
 import time
 import matplotlib.pyplot as plt
 import numpy as np
-
+ 
 def append_and_reverse(n):
     mylist = []
     start_time = time.time()
